@@ -9,5 +9,5 @@ yarn run build
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://dadas1000: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@github.com/dadas1000/interactive-language-reader.git master:gh-pages
+git push -f https://dadas1000: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@github.com/dadas1000/interactive-language-reader.git master:gh-pages
 cd /
